@@ -1,4 +1,11 @@
-img {
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+
+.gallery img {
 width: 400px;
 height: 300px;
 display: flex;
