@@ -6,8 +6,8 @@
 }
 
 .gallery img {
-width: 400px;
-height: 300px;
+width: 600px;
+aspect-ratio: 16/9;
 display: flex;
 border-radius: 20%;
 padding: 20px;
